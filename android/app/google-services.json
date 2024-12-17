@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "232246013927",
+    "project_id": "atelier3-12294",
+    "storage_bucket": "atelier3-12294.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232246013927:android:14468072725b1a70105742",
+        "android_client_info": {
+          "package_name": "com.example.atelier3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANI4IYarJKOgGqtEk53sOKa8q7ho-v2Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232246013927:android:6e0bb7316d509a71105742",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANI4IYarJKOgGqtEk53sOKa8q7ho-v2Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
